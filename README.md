@@ -1,4 +1,4 @@
-# Project title
+# Anti Theft Security System
 
 This is  a mobile application which is used to track location and help user to find the phone.
 ## Getting Started
