@@ -1,6 +1,6 @@
 # Project title
 
-This is  a mobile application which is used to track location.
+This is  a mobile application which is used to track location and help user to find the phone.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
